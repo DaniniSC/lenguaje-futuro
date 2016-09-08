@@ -1,0 +1,52 @@
+* {
+	font-family: Arial;
+}
+/* CSS HEADER */
+header {
+	background-image: url(../img/grupal.jpg);
+	background-size: cover;
+	height: 800px;
+}
+.col-3 p {
+	background-color: orange;
+	padding: 5px;
+	width: 80px;
+	text-align: center;
+	margin: 20px;
+	border-radius: 5px;
+}
+.logo {
+	width: 400px;
+	height: auto;
+	margin-top: 80px;
+}
+nav {
+	margin-top: 30px;
+}
+nav a {
+	text-decoration: none;
+	color: black;
+	margin: 5px;
+	font-size: 15px;
+}
+/* CSS SECTION */
+section {
+	padding: 20px 0;
+}
+.imagenPequeña {
+	width: 300px;
+	height: auto;
+}
+.textoFoto {
+	font-size: 15px;
+	margin: 8px 0;
+}
+/* CSS FOOTER */
+footer {
+	background-color: #4D4747;
+}
+footer p {
+	color: white;
+	margin: 20px;
+	font-size: 12px;
+}
